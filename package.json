@@ -1,0 +1,48 @@
+{
+  "name": "velrepellendus",
+  "version": "1.0.0",
+  "description": "Strongly typed canvas lms api",
+  "main": "dist/index.js",
+  "type": "dist/index.d.ts",
+  "keywords": [
+    "canvas",
+    "omnis",
+    "et",
+    "canvas lms api",
+    "type"
+  ],
+  "jest": {
+    "modulePaths": [
+      "src"
+    ]
+  },
+  "author": "MerlinMayer",
+  "license": "MIT",
+  "moduleFileExtensions": [
+    "ts"
+  ],
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.10.4",
+    "@types/jest": "^26.0.7",
+    "@types/node": "^14.0.27",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^26.3.0",
+    "jest": "^26.2.0",
+    "regenerator-runtime": "^0.13.7",
+    "@babel/preset-env": "^7.11.0",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@types/node-fetch": "^2.5.7",
+    "dotenv": "^8.2.0",
+    "form-data": "^3.0.0",
+    "node-fetch": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SadyeSpinka/velrepellendus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SadyeSpinka/velrepellendus.git/issues"
+  }
+}
